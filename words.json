@@ -1,0 +1,94 @@
+[
+    {
+        "word": "if",
+        "description": "A conditional statement that executes a block of code if a specified condition is true."
+    },
+    {
+        "word": "for",
+        "description": "A loop that iterates over a sequence (like a list, tuple, or string) and executes a block of code for each item in the sequence."
+    },
+    {
+        "word": "def",
+        "description": "A keyword used to define a function in Python."
+    },
+    {
+        "word": "import",
+        "description": "A statement used to include the functionality of a module in the current script."
+    },
+    {
+        "word": "class",
+        "description": "A blueprint for creating objects in object-oriented programming."
+    },
+    {
+        "word": "return",
+        "description": "A statement used to exit a function and return a value to the caller."
+    },
+    {
+        "word": "try",
+        "description": "A block of code that allows you to test a block of code for errors."
+    },
+    {
+        "word": "except",
+        "description": "A block of code that handles exceptions raised in the try block."
+    },
+    {
+        "word": "while",
+        "description": "A loop that continues to execute a block of code as long as a specified condition is true."
+    },
+    {
+        "word": "with",
+        "description": "A statement used to wrap the execution of a block of code within methods defined by a context manager."
+    },
+    {
+        "word": "lambda",
+        "description": "A small anonymous function defined with the lambda keyword."
+    },
+    {
+        "word": "yield",
+        "description": "A statement used in a function to return a generator."
+    },
+    {
+        "word": "global",
+        "description": "A keyword used to declare that a variable inside a function is global (i.e., it exists in the global scope)."
+    },
+    {
+        "word": "nonlocal",
+        "description": "A keyword used to declare that a variable inside a nested function is not local to that function, but exists in the nearest enclosing scope."
+    },
+    {
+        "word": "assert",
+        "description": "A statement used to test if a condition is true, and if not, raise an AssertionError."
+    },
+    {
+        "word": "break",
+        "description": "A statement used to exit a loop prematurely."
+    },
+    {
+        "word": "continue",
+        "description": "A statement used to skip the current iteration of a loop and continue with the next iteration."
+    },
+    {
+        "word": "pass",
+        "description": "A null statement that is used as a placeholder in code where a statement is syntactically required but no action is needed."
+    },
+    {
+        "word": "del",
+        "description": "A statement used to delete objects in Python."
+    },
+    {
+        "word": "raise",
+        "description": "A statement used to raise an exception."
+    },
+    {
+        "word": "is",
+        "description": "A comparison operator that checks if two variables point to the same object in memory."
+    },
+    {
+        "word": "in",
+        "description": "A membership operator used to check if a value exists within an iterable (like a list, tuple, or string)."
+    },
+    {
+        "word": "not",
+        "description": "A logical operator used to invert the truth value of a condition."
+    }
+]

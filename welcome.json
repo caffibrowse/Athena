@@ -1,0 +1,18 @@
+[
+    {
+        "word": "Welcome!",
+        "description": "Welcome to the Dictionary App! This application allows you to create and manage your own dictionaries for various purposes, such as vocabulary lists, code definitions, to-do lists, and more. Explore the features and enjoy customizing your experience!"
+    },  
+    {
+        "word": "features",
+        "description": "Create and manage multiple dictionaries, add, edit, and delete entries, search for specific words or phrases, and customize your dictionaries with categories and tags. (if you know json that is.) Enjoy a user-friendly interface designed to make dictionary management easy and efficient."
+    },
+    {
+        "word": "getting started",
+        "description":"To get started, simply download some dictionaries or create your own json file following the provided format, then import it into the app by going to file explorer and moving the file into C:/Users/YourUsername/AppData/Local/DictionaryApp/Dictionaries"
+    },
+    {
+        "word": "faqs/suggestions",
+        "description": "If you have any questions, suggestions, or need assistance, please contact me at: pyro.faq@outlook.com. I appreciate your feedback and am here to help you make the most of your dictionary experience!"
+    }   
+]
