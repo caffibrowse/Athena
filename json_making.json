@@ -1,0 +1,4 @@
+{
+    "word": "How to make a dictionary json file",
+    "description": "To create a dictionary JSON file, start with an array of objects. Each object should contain a 'word' key for the term and a 'description' key for its definition. Save the file with a .json extension and ensure it follows proper JSON syntax."
+}
